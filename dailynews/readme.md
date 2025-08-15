@@ -1,3 +1,6 @@
+# dailynews
+To Crawl the news website every three hours, only accessing the news of the day, without duplicate news, and store them in PostgreSQL.
+
 ## requests
  - beautifulsoup4
  - lxml
