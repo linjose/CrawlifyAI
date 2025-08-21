@@ -1,3 +1,6 @@
+#  crontab -e
+#  00 12 * * * /usr/bin/python3 /..path/daily_crawler.py
+
 import requests
 import json
 from datetime import date
