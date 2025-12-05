@@ -1,0 +1,11 @@
+{
+  "group_url": "https://www.facebook.com/groups/<group_number>",
+  "output_dir": "output",
+  "max_scrolls": 40,
+  "sleep_between_scrolls": 2.5,
+  "jitter": 1.5,
+  "cutoff_days": 365*3,
+  "google_api_key": "YOUR_GOOGLE_API_KEY_OR_EMPTY",
+  "use_google_geocode": true,
+  "nominatim_email": "your_email@example.com"
+}
