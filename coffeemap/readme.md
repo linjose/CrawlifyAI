@@ -79,3 +79,10 @@ python -m pip install googlemaps
 * `review_candidates.csv` 欄位：`id,name,address_candidate,coords,thumb,post`
 * 你可在 Excel / Google Sheets 打開，用 `thumb` 路徑查看圖檔（或我可幫你做一個簡單 HTML 頁面把每列做成可點選的檢視器）
 * 建議覆核欄位：`confirm_name`,`confirm_address`,`confirm_coords`,`final_tags`，覆核完後把 CSV 備回 `output/review_confirmed.csv`，我們再寫一個小 script 把確認檔案合併回 GeoJSON。
+
+### 8) 相似的網站或APP
+* World Map of Coffee — a global map collecting coffee shop / café / espresso-bar locations based on blog lists and user suggestions. 
+* Roasters.app — a global directory of specialty-coffee shops, roasters and cafés, with 20,000+ shops across many countries. 
+* Coffee Radar (coffeeradar.io) — a map-based service aiming to let users discover recommended cafés / coffee shops near them. 
+* For Taiwan /Asia: there’s Coffee Boom Boom Boom — a “coffee map” that picks and displays cafés and roasteries in Taiwan. 
+
