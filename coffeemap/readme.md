@@ -1,4 +1,4 @@
-# coffeemap
+# CafeMap
 - 自用地圖 https://cafemap.netlify.app/
 - 持續彙整準確的咖啡廳資料，以獨立經營(非連鎖加盟品牌)為主，希望幫助大家日常都能隨時找到好咖啡及舒適的環境。
 ---
