@@ -1,6 +1,7 @@
 # CafeMap
 - 自用地圖 https://cafemap.netlify.app/
 - 持續彙整準確的咖啡廳資料，以獨立經營(非連鎖加盟品牌)為主，希望幫助大家日常都能隨時找到好咖啡及舒適的環境。
+- 優化資料：考量是否自建 wikipedia ，並從 wikipedia 自動匯出整理成為GEOJSON?
 ---
 
  **pipeline** 可直接執行的腳本與說明，包含：
