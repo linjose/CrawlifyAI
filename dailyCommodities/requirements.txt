@@ -1,0 +1,22 @@
+# HTTP & Scraping
+requests==2.31.0
+yfinance==0.2.36
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# Database
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.28
+
+# Environment & Config
+python-dotenv==1.0.1
+
+# Scheduling
+schedule==1.2.1
+
+# Data Processing
+pandas==2.2.1
+
+# Utilities
+tenacity==8.2.3
+colorlog==6.8.2
